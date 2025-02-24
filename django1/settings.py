@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-!izbo^7th03zqk6t&vo7n=q=+s+_o_*p%t^7#rm*^2+)&qa+tl
 # DEBUG == False: production mode
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['django1-hurikk.onrender.com']
 
 
 # Application definition
